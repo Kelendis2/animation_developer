@@ -1,1 +1,3 @@
-# animation_developer
+# Animation_developer
+
+STATIC SITE
